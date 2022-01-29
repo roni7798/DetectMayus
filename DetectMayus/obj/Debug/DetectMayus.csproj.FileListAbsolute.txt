@@ -1,0 +1,15 @@
+C:\Users\juven\source\repos\DetectMayus\DetectMayus\DetectMayus\bin\Debug\DetectMayus.exe.config
+C:\Users\juven\source\repos\DetectMayus\DetectMayus\DetectMayus\bin\Debug\DetectMayus.exe
+C:\Users\juven\source\repos\DetectMayus\DetectMayus\DetectMayus\bin\Debug\DetectMayus.pdb
+C:\Users\juven\source\repos\DetectMayus\DetectMayus\DetectMayus\obj\Debug\MainWindow.g.cs
+C:\Users\juven\source\repos\DetectMayus\DetectMayus\DetectMayus\obj\Debug\App.g.cs
+C:\Users\juven\source\repos\DetectMayus\DetectMayus\DetectMayus\obj\Debug\DetectMayus_MarkupCompile.cache
+C:\Users\juven\source\repos\DetectMayus\DetectMayus\DetectMayus\obj\Debug\DetectMayus_MarkupCompile.lref
+C:\Users\juven\source\repos\DetectMayus\DetectMayus\DetectMayus\obj\Debug\MainWindow.baml
+C:\Users\juven\source\repos\DetectMayus\DetectMayus\DetectMayus\obj\Debug\DetectMayus.g.resources
+C:\Users\juven\source\repos\DetectMayus\DetectMayus\DetectMayus\obj\Debug\DetectMayus.Properties.Resources.resources
+C:\Users\juven\source\repos\DetectMayus\DetectMayus\DetectMayus\obj\Debug\DetectMayus.csproj.GenerateResource.cache
+C:\Users\juven\source\repos\DetectMayus\DetectMayus\DetectMayus\obj\Debug\DetectMayus.csproj.CoreCompileInputs.cache
+C:\Users\juven\source\repos\DetectMayus\DetectMayus\DetectMayus\obj\Debug\DetectMayus.exe
+C:\Users\juven\source\repos\DetectMayus\DetectMayus\DetectMayus\obj\Debug\DetectMayus.pdb
+C:\Users\juven\source\repos\DetectMayus\DetectMayus\DetectMayus\obj\Debug\DetectMayus.csproj.AssemblyReference.cache
